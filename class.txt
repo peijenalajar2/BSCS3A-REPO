@@ -3,6 +3,8 @@
 ----- BEGIN -----
 [*] King Lawrence
 [*] Deffrey Josh Austria
+[*] Ronce Peijen Alajar
+
 
 
 ----- END -----
